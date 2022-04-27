@@ -52,7 +52,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na [Universidad
 <br>
 <br>
 
-
 <div dir="auto">
 <a href="https://github.com/jmboeno">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmboeno&layout=compact&langs_count=7&theme=dark"/>
