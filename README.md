@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=37642678)
 ![](https://komarev.com/ghpvc/?username=jmboeno&color=4caf50)
 
 ## Oi! 👋, Eu sou o Jonas Boeno
