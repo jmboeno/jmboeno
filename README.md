@@ -4,7 +4,7 @@
 
 Tenho 29 anos, moro em Horizontina-RS e conheci o mundo dos códigos em 2016, quando fiz o curso técnico no [Centro Tecnológico Frederico Jorge Logemann](https://www.cfjl.com.br/) (onde trabalho atualmente  com Suporte de TI).
 
-Me apaixonei pela área! E desde então venho estudando, inicialmente com focando em UI, ma com o objetivo de me tornar um Desenvolvedor Full Stack.
+Me apaixonei pela área! E desde então venho estudando, inicialmente UI/UX e Fron End, mas com o objetivo de me tornar um Desenvolvedor Full Stack.
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na [Universidade Estácio de Sá](https://estacio.br/), além de realizar cursos complementares.
 
