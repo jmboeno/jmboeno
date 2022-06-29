@@ -53,7 +53,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na [Universidad
 
 <div dir="auto">
 <a href="https://github.com/jmboeno">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmboeno&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmboeno&layout=compact&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmboeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 </div>
