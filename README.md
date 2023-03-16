@@ -2,7 +2,7 @@
 
 ## Oi! 👋, Eu sou o Jonas Boeno
 
-Tenho 29 anos, moro em Horizontina-RS e conheci o mundo dos códigos em 2016, quando fiz o curso técnico no [Centro Tecnológico Frederico Jorge Logemann](https://www.cfjl.com.br/) (onde trabalho atualmente  com Suporte de TI).
+Tenho 30 anos, moro em Horizontina-RS e conheci o mundo dos códigos em 2016, quando fiz o curso técnico no [Centro Tecnológico Frederico Jorge Logemann](https://www.cfjl.com.br/).
 
 Me apaixonei pela área!
 E desde então venho estudando UI/UX e Desenvolimento Web (Front End), mas com o objetivo de me tornar um Desenvolvedor Full Stack.
